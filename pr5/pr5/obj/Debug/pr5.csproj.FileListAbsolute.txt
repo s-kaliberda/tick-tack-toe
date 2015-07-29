@@ -1,0 +1,9 @@
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\bin\Debug\pr5.exe.config
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\bin\Debug\pr5.exe
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\bin\Debug\pr5.pdb
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.Form1.resources
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.Properties.Resources.resources
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.csproj.GenerateResource.Cache
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.exe
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.pdb
+D:\college\InstrumZasRozrob\pr5\pr5\pr5\obj\Debug\pr5.csprojResolveAssemblyReference.cache
